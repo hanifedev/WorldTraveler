@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  WorldTraveler
+
+  Created by hks on 18.09.2020.
+  
+*/
+
+"TAB_CONVERSION" = "Çevirici";
+"TAB_MAP" = "Harita";
+"CONVERSION_TEXT_FIELD_PLACEHOLDER" = "değer";
+"CONVERSION_FAHRENHEIT" = "fahrenayt";
+"CONVERSION_IS_ACTUALLY" = "aslında";
+"CONVERSION_DEGREES_CELCIUS" = "derece";
+"MAP_CITY_SAMSUN" = "Samsun";
+"MAP_CITY_LONDRA" = "Londra";

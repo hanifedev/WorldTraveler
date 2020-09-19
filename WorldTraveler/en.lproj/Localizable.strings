@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  WorldTraveler
+
+  Created by hks on 18.09.2020.
+  
+*/
+
+"TAB_CONVERSION" = "Conversion";
+"TAB_MAP" = "Map";
+"CONVERSION_TEXT_FIELD_PLACEHOLDER" = "value";
+"CONVERSION_FAHRENHEIT" = "fahrenheit";
+"CONVERSION_IS_ACTUALLY" = "is actually";
+"CONVERSION_DEGREES_CELCIUS" = "degrees celcius";
+"MAP_CITY_SAMSUN" = "Samsun";
+"MAP_CITY_LONDRA" = "Londra";
+
